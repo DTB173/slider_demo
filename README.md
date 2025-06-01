@@ -8,9 +8,6 @@ Project created to showcase how to create simple carousel for your webpage using
    
 ``` bash
 npm install
-```
-
-``` bash
 npm start
 ```
 
